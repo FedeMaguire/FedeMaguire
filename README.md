@@ -5,7 +5,6 @@
 I'm a Data Analyst with a background in CAD/CAM, CNC, and 3D product design.
 Developed skills in SQL, Excel, Python, Tableau, and Power BI throughintensive training, specialized courses, certificates, and freelance work.
 - Data Mining.
-- ETL (Extract, Transform, Load)
 - Web Scraping.
 - Data Analysis.
 - Data Visualization.
