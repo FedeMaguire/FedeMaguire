@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Data related tecniques.
 
 I'm a Data Analyst with a background in CAD/CAM, CNC, and 3D product design.
-Developed skills in SQL, Excel, Python, Tableau, and Power BI throughintensive training, specialized courses, certificates, and freelance work.
+Developed skills in SQL, Excel, Python, Tableau, and Power BI through intensive training, specialized courses, certificates, and freelance work.
+My Skills are:
 - Data Mining.
 - Web Scraping.
 - Data Analysis.
