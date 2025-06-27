@@ -3,8 +3,8 @@
 
 I'm a Data Analyst experienced in SQL, Excel, Python, Tableau, and Power BI, with a strong foundation built through intensive training, 
 specialized courses, certifications, and hands-on freelance projects. Proficient in data analysis, predictive modeling, machine learning 
-techniques, and algorithmic trading. Passionate about turning complex data into actionable insights and developing intelligent, 
-data-driven solutions.
+techniques, and algorithmic trading. 
+Passionate about turning complex data into actionable insights and developing intelligent, data-driven solutions.
 
 - Data Mining.
 - Web Scraping.
