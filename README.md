@@ -13,8 +13,8 @@ Passionate about turning complex data into actionable insights and developing in
 - Story telling with Data.
 - Predictive modelling.
 - Machine learning tools.
-- Algorithmic Trading
-- Trading Bots
+- Algorithmic Trading.
+- Trading Bots.
 
 "Motivated to apply this expertise in a role that offers 
 continuous opportunities for personal and professional growth."
